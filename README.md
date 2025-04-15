@@ -6,15 +6,21 @@ El principio SRP establece que una clase o módulo debe tener una única respons
 
 
 
+
+
 ¿Por qué es importante validar la entrada del usuario?
 
 Relaciónalo con OWASP. Validar la entrada del usuario es crucial para prevenir vulnerabilidades como inyecciones de código, ataques de tipo XSS (Cross-Site Scripting) o SQL Injection, que son riesgos destacados en el OWASP Top 10. Asegurarse de que los datos ingresados sean válidos y seguros protege tanto al sistema como a los datos del usuario.
 
 
 
+
+
 ¿Qué beneficios tiene separar el código en funciones o clases?
 
 Separar el código en funciones o clases mejora la legibilidad, facilita la reutilización y simplifica las pruebas. Además, permite que diferentes desarrolladores trabajen en distintas partes del código sin interferir entre sí, promoviendo un desarrollo más eficiente y organizado.
+
+
 
 
 
